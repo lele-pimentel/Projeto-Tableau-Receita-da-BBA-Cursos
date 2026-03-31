@@ -1,8 +1,5 @@
 # Projeto-Tableau-Receita-de-Faturamento
-
-Este projeto demonstra o fluxo completo de análise de dados, desde a estruturação de cálculos complexos até a criação de um dashboard estratégico no **Tableau**, focado em resolver a "cegueira operacional" de uma grande empresa de educação.
-
----
+--
 
 ## 🚩 Desafio
 Como analista, identifiquei que a empresa possui uma operação robusta, mas enfrentava dificuldades para visualizar quais setores e regiões eram realmente rentáveis. O tempo de recebimento e o volume de faturamento variavam drasticamente entre as zonas, dificultando a identificação de perdas e ganhos reais.
