@@ -8,7 +8,7 @@ Desenvolver um painel analítico que resuma a operação, permitindo visualizar 
 
 ## 🛠️ Tecnologias Utilizadas
 * **Tableau**: Visualização de dados e Storytelling.
-* **Excel: Manipulação da base de dados de faturamento.
+* **Excel**: Manipulação da base de dados de faturamento.
 
 ---
 
