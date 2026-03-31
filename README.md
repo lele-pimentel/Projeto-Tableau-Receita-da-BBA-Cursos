@@ -1,5 +1,4 @@
 # Projeto-Tableau-Receita-de-Faturamento
---
 
 ## 🚩 Desafio
 Como analista, identifiquei que a empresa possui uma operação robusta, mas enfrentava dificuldades para visualizar quais setores e regiões eram realmente rentáveis. O tempo de recebimento e o volume de faturamento variavam drasticamente entre as zonas, dificultando a identificação de perdas e ganhos reais.
@@ -9,14 +8,11 @@ Desenvolver um painel analítico que resuma a operação, permitindo visualizar 
 
 ## 🛠️ Tecnologias Utilizadas
 * **Tableau**: Visualização de dados e Storytelling.
-* **Lógica de Programação**: Criação de cálculos de KPIs personalizados.
-* **VS Code / HTML / CSS**: Estruturação da documentação e interface de suporte.
-* **Excel/CSV**: Manipulação da base de dados de faturamento.
+* **Excel: Manipulação da base de dados de faturamento.
 
 ---
 
 ## 📈 Etapa 1: Engenharia de Dados & Cálculos
-*Foco: Transformar dados em métricas de negócio.*
 
 Nesta etapa, foi criada a inteligência por trás dos gráficos utilizando campos calculados avançados:
 
@@ -26,13 +22,16 @@ Nesta etapa, foi criada a inteligência por trás dos gráficos utilizando campo
 * **KPI de Margem Média**: Desenvolvimento de cálculo para medir quanto cada real investido nos cursos retornou como ganho efetivo para a empresa.
 
 ## 📊 Etapa 2: Business Intelligence (Tableau)
-*Foco: Visualização Estratégica e UX.*
 
 Os dados foram organizados para uma leitura rápida e intuitiva através de:
 
 1.  **Ranking de Setores**: Aplicação de filtros de *Top N* e parâmetros para identificar os setores com maior lucratividade e volume pago.
 2.  **Análise Geográfica**: Mapeamento da quantidade de faturas por províncias, com foco em regiões-chave como **Barcelona, Madrid e Alicante**.
 3.  **Interface Interativa**: Design limpo com KPIs em destaque (Lucro Total, Custo, Faturamento e Médias) para uma visão 360º da saúde financeira.
+
+Visualização:
+<img width="532" height="323" alt="image" src="https://github.com/user-attachments/assets/1c9889a3-32c4-4bca-9446-fff0d124494f" />
+
 
 ---
 
