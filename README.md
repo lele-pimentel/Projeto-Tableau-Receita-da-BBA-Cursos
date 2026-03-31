@@ -14,7 +14,7 @@ Desenvolver um painel analítico que resuma a operação, permitindo visualizar 
 
 ## 📈 Etapa 1: Engenharia de Dados & Cálculos
 
-Nesta etapa, foi criada a inteligência por trás dos gráficos utilizando campos calculados avançados:
+No Tableau, utilizando a planilha do banco de dados da empresa como a fonte dados no Tableau. Nesta etapa, foi criada os gráficos, KPI e insights utilizando campos calculados avançados:
 
 * **Cálculo de Lucro Real**: Implementação da métrica de lucro total subtraindo o importe do fornecedor do importe do cliente.
     > `SUM([Importe Cliente]) - SUM([Importe Fornecedor])`
