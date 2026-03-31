@@ -30,12 +30,13 @@ Os dados foram organizados para uma leitura rápida e intuitiva através de:
 3.  **Interface Interativa**: Design limpo com KPIs em destaque (Lucro Total, Custo, Faturamento e Médias) para uma visão 360º da saúde financeira.
 
 Visualização:
+
 <img width="532" height="323" alt="image" src="https://github.com/user-attachments/assets/1c9889a3-32c4-4bca-9446-fff0d124494f" />
 
 
 ---
 
-## 🚀 Resultados Obtidos
+## 🚀 Resultados
 * **Transparência Financeira**: Identificação clara de onde o lucro está sendo retido e onde a operação é mais eficiente.
 * **Visão Regional**: O gestor agora consegue comparar o desempenho entre províncias através do mapa interativo.
 * **Agilidade na Análise**: Substituição de relatórios estáticos por um painel dinâmico que diferencia automaticamente o que foi pago do que ainda é custo.
