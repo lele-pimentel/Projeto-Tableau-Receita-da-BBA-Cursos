@@ -1,18 +1,18 @@
 # Projeto-Tableau-Receita-de-Faturamento
 
-## 🚩 Desafio
+## Desafio
 Como analista, identifiquei que a empresa possui uma operação robusta, mas enfrentava dificuldades para visualizar quais setores e regiões eram realmente rentáveis. O tempo de recebimento e o volume de faturamento variavam drasticamente entre as zonas, dificultando a identificação de perdas e ganhos reais.
 
-## 🎯 Objetivo
+## Objetivo
 Desenvolver um painel analítico que resuma a operação, permitindo visualizar **custos, lucro e faturamento**. O foco é transformar dados brutos em indicadores de margem média e performance regional para suporte estratégico à tomada de decisão.
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 * **Tableau**: Visualização de dados e Storytelling.
 * **Excel**: Manipulação da base de dados de faturamento.
 
 ---
 
-## 📈 Etapa 1: Engenharia de Dados & Cálculos
+## Etapa 1: Engenharia de Dados & Cálculos
 
 No Tableau, utilizando a planilha do banco de dados da empresa como a fonte dados no Tableau. Nesta etapa, foi criada os gráficos, KPI e insights utilizando campos calculados avançados:
 
@@ -21,7 +21,7 @@ No Tableau, utilizando a planilha do banco de dados da empresa como a fonte dado
 * **Diferenciação de Status**: Criação de lógica condicional para identificar pagamentos realizados (**Sim**) vs. pendências (**Não pago**), garantindo a integridade da soma do faturamento.
 * **KPI de Margem Média**: Desenvolvimento de cálculo para medir quanto cada real investido nos cursos retornou como ganho efetivo para a empresa.
 
-## 📊 Etapa 2: Business Intelligence (Tableau)
+## Etapa 2: Business Intelligence (Tableau)
 
 Os dados foram organizados para uma leitura rápida e intuitiva através de:
 
