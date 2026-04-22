@@ -36,7 +36,7 @@ Visualização:
 
 ---
 
-## 🚀 Resultados
+## Resultados
 * **Transparência Financeira**: Identificação clara de onde o lucro está sendo retido e onde a operação é mais eficiente.
 * **Visão Regional**: O gestor agora consegue comparar o desempenho entre províncias através do mapa interativo.
 * **Agilidade na Análise**: Substituição de relatórios estáticos por um painel dinâmico que diferencia automaticamente o que foi pago do que ainda é custo.
